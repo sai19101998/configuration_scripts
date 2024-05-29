@@ -13,6 +13,7 @@ if [ $USERID -ne 0 ]
 fi
 
 
+yum install git -y
 yum install mysql -y
 yum install nginx -y
 yum install wget -y
