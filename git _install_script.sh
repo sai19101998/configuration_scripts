@@ -14,4 +14,7 @@ fi
 
 
 yum install git -y
-
+yum install mysql -y
+yum install nginx -y
+yum install wget -y
+yum install java-11-openjdk -y
